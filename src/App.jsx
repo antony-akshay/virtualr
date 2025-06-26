@@ -4,6 +4,8 @@ import Hero from './components/Hero'
 import FeatureSection from './components/FeatureSection'
 import Workflow from './components/Workflow'
 import Pricing from './components/Pricing'
+import Testimonials from './components/Testimonials'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -17,6 +19,8 @@ function App() {
         <FeatureSection/>
         <Workflow/>
         <Pricing/>
+        <Testimonials/>
+        <Footer/>
       </div>
     </>
   )
